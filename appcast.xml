@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Sticky for Claude</title>
+        <link>https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude/main/appcast.xml</link>
+        <description>Mises à jour de Sticky for Claude</description>
+        <language>en</language>
+        <!-- Les items sont générés par « make appcast » à chaque release
+             (DMG signés EdDSA dans release/). Vide = l'app est à jour. -->
+    </channel>
+</rss>
