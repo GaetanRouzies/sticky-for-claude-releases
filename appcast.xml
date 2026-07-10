@@ -1,11 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Sticky for Claude</title>
-        <link>https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude/main/appcast.xml</link>
-        <description>Mises à jour de Sticky for Claude</description>
-        <language>en</language>
-        <!-- Les items sont générés par « make appcast » à chaque release
-             (DMG signés EdDSA dans release/). Vide = l'app est à jour. -->
+        <item>
+            <title>1.3.0</title>
+            <pubDate>Fri, 10 Jul 2026 21:30:07 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/StickyForClaude-1.3.0.dmg" length="3796175" type="application/octet-stream" sparkle:edSignature="j2WyD8K1S1dRu2FlpNzEDnCJ3HcmVhF4AErzEi/EGPMZeXagD+jtynXEwVbSYm8M5XmucOV3XLzsJEInd/HtDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude5-4.delta" sparkle:deltaFrom="4" length="176402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jV2h4M0YKj8q2MI/55ZU/mL8thPtoSieDlb7eFuiHSTNzLzXjbV01l2TMMln8GG0cx3sfBzH15Ii3c+3/0yFBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.2.0</title>
+            <pubDate>Fri, 10 Jul 2026 21:08:43 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/StickyForClaude-1.2.0.dmg" length="3791957" type="application/octet-stream" sparkle:edSignature="N6fyY/ClHM9Y6tE0A+38SnKmwLEMu6TXunI9Y/TSdTp7iwJYxJoK0IfTILkRaGn6SogCgfEYqT/xaqPV0lvZAA=="/>
+        </item>
     </channel>
 </rss>
