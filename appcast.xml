@@ -3,6 +3,22 @@
     <channel>
         <title>Sticky for Claude</title>
         <item>
+            <title>1.5.2</title>
+            <pubDate>Fri, 31 Jul 2026 12:11:38 +0700</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/StickyForClaude-1.5.2.dmg" length="3872554" type="application/octet-stream" sparkle:edSignature="KSzlGo/Esvgx9qjSgHmHWYDUGaqePENy/xj0QTSEdmjeh3CKlpi4SdJ2YelPQfbrMrS6jplACaVo1yupeMWLAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude19-14.delta" sparkle:deltaFrom="14" length="277710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EzIPvz+EMGapCGhArnJ1wXJCqX1iPuT567JGonig1U4CjPg9A3slh7GN1bHSoEmjva3BQQ48z4frtNdNaEJuCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude19-13.delta" sparkle:deltaFrom="13" length="276346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uwGbWEczCSU+y0ddJojr/mT7Np4gbo73eWaFcvujWQvfZojsso3nrKfQ7I2uD3gwW/cDDx9pSkn1bYuJJHkODA=="/>
+                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude19-12.delta" sparkle:deltaFrom="12" length="274530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y4k4Cza0XfSjXmUK9Q7nFNNy7ORQEkwXgaJoUMVoEIzkqATXXuEfTPlxmZfyf5aWdsmfPzf5byAm82xF5kk+Bw=="/>
+                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude19-10.delta" sparkle:deltaFrom="10" length="309562" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8eaRFHNZL28mrYxma2g4ngvF20d5K0EOb8Ax6yxx8HiyPMnQ0UFAWjrtU9Cn/dC7FEhUeAFUw2gUWjr9oEmXCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude19-9.delta" sparkle:deltaFrom="9" length="311550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4kRM67xW4aRfR8e5Dou3a3XPd2gPZZ8CLbmcQiDIR7WDViV4WTOfx9elN4a+DDQSShxw45DiraA3jbfdRsChDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.8</title>
             <pubDate>Sat, 11 Jul 2026 21:41:43 +0700</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude13-9.delta" sparkle:deltaFrom="9" length="278002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nW5tJjCAlbTefRfUKujx1xUOarVh1NmqhgqE95mvrSEgEJfTlMJSszg2V5PPA0UVPYWioZEUF0B68e1BUhUWAQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude13-8.delta" sparkle:deltaFrom="8" length="324906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HZYD34vFuLXL6XvDQsFEkdp4aGZQ2M0FHUkG3RYNwFNm3Qiz+VZWVbvWfdf2BMtgNFUN02wiJSXT2w9mLVzLCw=="/>
                 <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude13-7.delta" sparkle:deltaFrom="7" length="334686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IHrll3xyofPPfnRSXXx5jde8Y4zLnhgsuOuLEhnVMKUMif5MIt3NsT0RlKbSwHRyijOJuVURGKPYdJCDKBDoBg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4.6</title>
-            <pubDate>Sat, 11 Jul 2026 19:16:23 +0700</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/StickyForClaude-1.4.6.dmg" length="3864805" type="application/octet-stream" sparkle:edSignature="AugWNgRrmCDPcLvdiVjaI+EHViz9WIzVuut3hWBWeAnoFk1kpiXZk+4ASg9Vbml2DbUPDn2I/+4RWeituiqrAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude12-10.delta" sparkle:deltaFrom="10" length="260198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EC/x2tYhuN7mRYCxEVPHABruTBB9xujCGavBBAr6FatwnSvN7RQsd4RYeUQhhoCP+RShim9dZ6p+6Bhham/rCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude12-9.delta" sparkle:deltaFrom="9" length="266322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sH7s9W62lMP+FpC56z2wrT7sKxaZM5WVYafMFZV0TvJ8bJVCe6UiwcqBDt/gdhidESgJHyNGvRnrI42xGItFCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude12-8.delta" sparkle:deltaFrom="8" length="313078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i77fB/cMy7KO7agkG5LzUFyN0Mzjz1k10EWGV6XX5EjMYuW3iLvqm43rS+ulDCWVDhrAt8miUGK4qxIhlr9OAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude12-7.delta" sparkle:deltaFrom="7" length="329154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gL91mMTILHdXM5W+K3AM/ksnAhcrofdODbuGuBAD1699epM9P7rxOucRAng8+ydBizsymOd35ZdXC63jq4qKCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/GaetanRouzies/sticky-for-claude-releases/main/Sticky%20for%20Claude12-6.delta" sparkle:deltaFrom="6" length="354334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mBJwgY5s2Ii9Gnt7kCsWaqUgAEWlsi/giwqpOzC5VID0CUPbMmWL/1gabqfcdFCMzGfl/M+KftEngN2d/BY8CA=="/>
             </sparkle:deltas>
         </item>
     </channel>
